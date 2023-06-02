@@ -1,4 +1,3 @@
-News-Monkey Demo
 https://github.com/Rohit20Raj/News-Monkey/assets/85450970/8addcad7-5d9d-4c6e-af2c-1415f0eeff90
 
 
